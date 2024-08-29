@@ -1,4 +1,4 @@
-# testrepo
+# WebScraping Project
 This project uses the following:
 1. Extracting data using BeautifulSoup
    Download the web page Using Requests Library 
